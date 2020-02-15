@@ -13,6 +13,7 @@ S5E12,http://zy.kubo-360-tudou.com/20180514/6841_a875ca47/index.m3u8#http://vip8
 S5E13,http://zy.kubo-360-tudou.com/20180520/7666_21306747/index.m3u8#http://vip888.kuyun99.com/20180521/Hoo6ULrc/index.m3u8#https://605ziyuan.com/20180521/DpY0fdYL/index.m3u8
 S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip888.kuyun99.com/20180521/1BcFUvdn/index.m3u8#https://605ziyuan.com/20180521/mv1cAhT5/index.m3u8
 娱乐解说,#genre#
+安静听歌,http://3954.liveplay.myqcloud.com/live/3954_4900350.flv?bizid=3954&txSecret=aaab34b7aa4542e8bc497c3df5a9c3d9&txTime=5e50bd30&uid=0&fromdj=egame_official&_qedj_t=BhjdNs55%2Fpfl3PRE2v4ZbUe2e6O9D%2BCY9yUQASYSNDkwMDM1MF8xNTgxNzQ0ODExMl5HiTFMVhxmcGlNQ1I4VkFBRElUaWtObDU0RkFJdGNsd05oZg5lZ2FtZV9vZmZpY2lhbHAEhitwZ2dfbGl2ZV9yZWFkX2lmY19tdF9zdnIuZW50cnlfaDVfbGl2ZV9yb29tlgc5LjkuOS45pg01OS4zNi4yMjQuMTkwvMYA1gDs8A8C
 当打之年0215,https://txxs.mahua-yongjiu.com/20200214/13527_2b10cf4d/index.m3u8#https://www.166796.com/20200215/bjLQaFMW/index.m3u8#http://youku.cdn3-okzy.com/20200214/6743_ead396b4/index.m3u8
 向往的生活,http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1_500.m3u8
 今晚80后,http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
