@@ -1,5 +1,4 @@
 PeppaPig,#genre#
-
 S5E01,http://zy.kubo-360-tudou.com/20180430/4543_bfebd9b3/index.m3u8#http://vs1.baduziyuan.com/20180427/TyijP9VW/index.m3u8
 S5E02,http://zy.kubo-360-tudou.com/20180430/4545_e190856f/index.m3u8#http://vs1.baduziyuan.com/20180427/Om77kBWl/index.m3u8
 S5E03,http://zy.kubo-360-tudou.com/20180430/4542_e269b0b5/index.m3u8#http://vs1.baduziyuan.com/20180427/h5TYUZF1/index.m3u8
@@ -14,6 +13,10 @@ S5E12,http://zy.kubo-360-tudou.com/20180514/6841_a875ca47/index.m3u8#http://vip8
 S5E13,http://zy.kubo-360-tudou.com/20180520/7666_21306747/index.m3u8#http://vip888.kuyun99.com/20180521/Hoo6ULrc/index.m3u8#https://605ziyuan.com/20180521/DpY0fdYL/index.m3u8
 S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip888.kuyun99.com/20180521/1BcFUvdn/index.m3u8#https://605ziyuan.com/20180521/mv1cAhT5/index.m3u8
 娱乐解说,#genre#
+向往的生活,http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1_500.m3u8
+今晚80后,http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
+沈腾贾玲http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1_500.m3u8
+极限挑战,http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_500.m3u8
 相声小品 搞笑总动员,http://aldirect.hls.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1_2500.m3u8
 小贝食记,http://aldirect.hls.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
 山药视频,http://aldirect.hls.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
@@ -35,6 +38,7 @@ S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip8
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 科幻梦工厂,http://aldirect.hls.huya.com/backsrc/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1_2500.m3u8
 阿钙扒瞎,http://aldirect.hls.huya.com/huyalive/94525224-2702006072-11605027712833421312-4580673800-10057-A-0-1_2500.m3u8
+闫帅奇,http://aldirect.hls.huya.com/huyalive/1279522287394-1279522287394-16823388968606236672-2559044698244-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/1279522287394-1279522287394-16823388968606236672-2559044698244-10057-A-0-1_2500.m3u8
 亲子卡通,#genre#
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
