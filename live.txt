@@ -1,3 +1,5 @@
+电影点播,#genre#
+流浪地球HD,https://cn1.343480.com/20190622/QuUv36gK/index.m3u8
 PeppaPig,#genre#
 S5E01,http://zy.kubo-360-tudou.com/20180430/4543_bfebd9b3/index.m3u8#http://vs1.baduziyuan.com/20180427/TyijP9VW/index.m3u8
 S5E02,http://zy.kubo-360-tudou.com/20180430/4545_e190856f/index.m3u8#http://vs1.baduziyuan.com/20180427/Om77kBWl/index.m3u8
