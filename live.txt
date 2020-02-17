@@ -1,5 +1,5 @@
 电影点播,#genre#
-流浪地球HD,https://cn1.343480.com/20190622/QuUv36gK/index.m3u8
+流浪地球HD,http://iqiyi.com-t-iqiyi.com/20190426/1894_59b6d889/index.m3u8#http://xunlei12.okzyxz.com/20190426/1894_59b6d889/流浪地球4K.mp4#http://youku.com-l-youku.com/20190207/20335_d1f19bfb/index.m3u8#http://xunlei8.okzyxz.com/20190207/20335_d1f19bfb/vip.流.HD高清版.mp4#https://v3.yongjiujiexi.com/20190426/dFZYCCfi/index.m3u8#https://www.dt870.com/20190426/VtBPPa5r/index.m3u8#https://cn1.343480.com/20190622/QuUv36gK/index.m3u8
 PeppaPig,#genre#
 S5E01,http://zy.kubo-360-tudou.com/20180430/4543_bfebd9b3/index.m3u8#http://vs1.baduziyuan.com/20180427/TyijP9VW/index.m3u8
 S5E02,http://zy.kubo-360-tudou.com/20180430/4545_e190856f/index.m3u8#http://vs1.baduziyuan.com/20180427/Om77kBWl/index.m3u8
