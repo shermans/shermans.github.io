@@ -1,7 +1,3 @@
-电影点播,#genre#
-流浪地球HD,http://iqiyi.com-t-iqiyi.com/20190426/1894_59b6d889/index.m3u8#http://xunlei12.okzyxz.com/20190426/1894_59b6d889/流浪地球4K.mp4#http://youku.com-l-youku.com/20190207/20335_d1f19bfb/index.m3u8#http://xunlei8.okzyxz.com/20190207/20335_d1f19bfb/vip.流.HD高清版.mp4#https://v3.yongjiujiexi.com/20190426/dFZYCCfi/index.m3u8#https://www.dt870.com/20190426/VtBPPa5r/index.m3u8#https://cn1.343480.com/20190622/QuUv36gK/index.m3u8
-银河护卫队,http://vip.okokbo.com/20180319/7Ddkr3gr/index.m3u8
-银河护卫队2,http://youku.com-youku.net/20180610/11042_8149dd70/index.m3u8
 PeppaPig,#genre#
 S5E01,http://zy.kubo-360-tudou.com/20180430/4543_bfebd9b3/index.m3u8#http://vs1.baduziyuan.com/20180427/TyijP9VW/index.m3u8
 S5E02,http://zy.kubo-360-tudou.com/20180430/4545_e190856f/index.m3u8#http://vs1.baduziyuan.com/20180427/Om77kBWl/index.m3u8
@@ -17,11 +13,9 @@ S5E12,http://zy.kubo-360-tudou.com/20180514/6841_a875ca47/index.m3u8#http://vip8
 S5E13,http://zy.kubo-360-tudou.com/20180520/7666_21306747/index.m3u8#http://vip888.kuyun99.com/20180521/Hoo6ULrc/index.m3u8#https://605ziyuan.com/20180521/DpY0fdYL/index.m3u8
 S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip888.kuyun99.com/20180521/1BcFUvdn/index.m3u8#https://605ziyuan.com/20180521/mv1cAhT5/index.m3u8
 娱乐解说,#genre#
-安静听歌,http://3954.liveplay.myqcloud.com/live/3954_4900350.flv?bizid=3954&txSecret=aaab34b7aa4542e8bc497c3df5a9c3d9&txTime=5e50bd30&uid=0&fromdj=egame_official&_qedj_t=BhjdNs55%2Fpfl3PRE2v4ZbUe2e6O9D%2BCY9yUQASYSNDkwMDM1MF8xNTgxNzQ0ODExMl5HiTFMVhxmcGlNQ1I4VkFBRElUaWtObDU0RkFJdGNsd05oZg5lZ2FtZV9vZmZpY2lhbHAEhitwZ2dfbGl2ZV9yZWFkX2lmY19tdF9zdnIuZW50cnlfaDVfbGl2ZV9yb29tlgc5LjkuOS45pg01OS4zNi4yMjQuMTkwvMYA1gDs8A8C
-当打之年0215,https://txxs.mahua-yongjiu.com/20200214/13527_2b10cf4d/index.m3u8#https://www.166796.com/20200215/bjLQaFMW/index.m3u8#http://youku.cdn3-okzy.com/20200214/6743_ead396b4/index.m3u8
+沈腾贾玲,http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1_500.m3u8
 向往的生活,http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1_500.m3u8
 今晚80后,http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
-沈腾贾玲,http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1_500.m3u8
 极限挑战,http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_500.m3u8
 相声小品 搞笑总动员,http://aldirect.hls.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1_2500.m3u8
 小贝食记,http://aldirect.hls.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
@@ -30,11 +24,10 @@ S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip8
 野食小哥,http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_2500.m3u8
 五阿哥视频,http://aldirect.hls.huya.com/huyalive/94525224-2695478346-11576991343146172416-4540491764-10057-A-0-1_2500.m3u8
 美食纪录片馋到你哭,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_2500.m3u8
-广西小雁拍农村,http://aldirect.hls.huya.com/huyalive/1446740984-1446740984-6213705212062859264-4772834748-10057-A-0-1_2500.m3u8
-音乐小石榴,http://aldirect.hls.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1_2500.m3u8
+阿钙扒瞎,http://aldirect.hls.huya.com/huyalive/94525224-2702006072-11605027712833421312-4580673800-10057-A-0-1_2500.m3u8
+电影最TOP,http://aldirect.hls.huya.com/backsrc/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1_2500.m3u8
 谷阿莫,http://aldirect.hls.huya.com/huyalive/1444266573-1444266573-6203077697740996608-4623578078-10057-A-0-1_2500.m3u8
 虎牙观影团,http://aldirect.hls.huya.com/backsrc/30765679-2743063560-11781368281049333760-3048991606-10057-A-0-1_2500.m3u8
-电影最TOP,http://aldirect.hls.huya.com/backsrc/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1_2500.m3u8
 阿斗说电影,http://aldirect.hls.huya.com/backsrc/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_2500.m3u8
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 志戈电影,http://aldirect.hls.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1_2500.m3u8
@@ -43,8 +36,6 @@ S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip8
 宇哥讲电影,http://aldirect.hls.huya.com/huyalive/1419766545-1419766545-6097850878729912320-2948367494-10057-A-0-1_2500.m3u8
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 科幻梦工厂,http://aldirect.hls.huya.com/backsrc/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1_2500.m3u8
-阿钙扒瞎,http://aldirect.hls.huya.com/huyalive/94525224-2702006072-11605027712833421312-4580673800-10057-A-0-1_2500.m3u8
-私教课堂,http://aldirect.hls.huya.com/huyalive/1279522287394-1279522287394-16823388968606236672-2559044698244-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/1279522287394-1279522287394-16823388968606236672-2559044698244-10057-A-0-1_2500.m3u8
 亲子卡通,#genre#
 CCTV-14,http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -102,7 +93,6 @@ CCTV-14,http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?chann
 CCTV-15,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-17,http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 卫视频道,#genre#
-
 湖南卫视高清,http://39.135.34.150:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 北京卫视高清,http://39.135.34.143:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=1106497909461249865&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRV7KOtBVuvtVZFLcgrBAOKYd9hOl8T7nV%2fYYLzxPrqZvxI1UedirhXiKrowSY0GL9
 浙江卫视高清,http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
