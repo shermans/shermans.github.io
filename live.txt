@@ -37,6 +37,7 @@ S5E14,http://zy.kubo-360-tudou.com/20180520/7663_870e6e8e/index.m3u8#http://vip8
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 科幻梦工厂,http://aldirect.hls.huya.com/backsrc/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1_2500.m3u8
 亲子卡通,#genre#
+猫和老鼠,http://aldirect.hls.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_500.m3u8
 CCTV-14,http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
