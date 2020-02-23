@@ -57,12 +57,10 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 虎牙动漫,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 虎牙电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 亚洲电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-夯丶影院,https://dlhls-cdn-mp.zhanqi.tv/zqlive/7032_0s2qn.m3u8
 西欧流浪者,https://dlhls-cdn-mp.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 老扬,https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 天魔小M,https://dlhls-cdn-mp.zhanqi.tv/zqlive/275792_qIz6B.m3u8
 周口影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-从前有间影院,https://dlhls-cdn-mp.zhanqi.tv/zqlive/197952_NHycj.m3u8
 美7琪152594727,https://dlhls-cdn-mp.zhanqi.tv/zqlive/93626_h1w6h.m3u8
 尚儒客栈,https://dlhls-cdn-mp.zhanqi.tv/zqlive/275052_NGqzG.m3u8
 kaixin爱笑爱生活1,https://dlhls-cdn-mp.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
