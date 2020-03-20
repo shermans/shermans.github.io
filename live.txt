@@ -1,8 +1,5 @@
 娱乐解说,#genre#
-沈腾贾玲,http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1_500.m3u8
-向往的生活,http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1_500.m3u8
 今晚80后,http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
-极限挑战,http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1_500.m3u8
 相声小品 搞笑总动员,http://aldirect.hls.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1_2500.m3u8
 小贝食记,http://aldirect.hls.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
 山药视频,http://aldirect.hls.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1_2500.m3u8
@@ -23,10 +20,8 @@
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 科幻梦工厂,http://aldirect.hls.huya.com/backsrc/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1_2500.m3u8
 儿童学习,#genre#
-猫和老鼠,http://aldirect.hls.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8#http://aldirect.hls.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_500.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
 北京卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
 虎牙节目现场,http://aldirect.hls.huya.com/huyalive/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1_2500.m3u8
 虎牙体育,http://aldirect.hls.huya.com/huyalive/21648863-2733137672-11738736916705574912-2895636158-10057-A-0-1_2500.m3u8
@@ -48,7 +43,6 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 虎牙电影,http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
 虎牙电视剧,http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
 周星驰电影,https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
-李连杰电影,https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 怪物科幻,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 漫威电影,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -57,26 +51,6 @@ BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 虎牙动漫,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 虎牙电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 亚洲电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-西欧流浪者,https://dlhls-cdn-mp.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-老扬,https://dlhls-cdn-mp.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-天魔小M,https://dlhls-cdn-mp.zhanqi.tv/zqlive/275792_qIz6B.m3u8
-周口影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-美7琪152594727,https://dlhls-cdn-mp.zhanqi.tv/zqlive/93626_h1w6h.m3u8
-尚儒客栈,https://dlhls-cdn-mp.zhanqi.tv/zqlive/275052_NGqzG.m3u8
-0懒猫0,https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-脑袋大,https://dlhls-cdn-mp.zhanqi.tv/zqlive/93774_g0UdM.m3u8
-淮阳影视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8
-战旗麦香包,https://dlhls-cdn-mp.zhanqi.tv/zqlive/264395_mnbIi.m3u8
-kaixin动漫,https://dlhls-cdn-mp.zhanqi.tv/zqlive/219628_O3y9l.m3u8
-战旗蓝天,https://dlhls-cdn-mp.zhanqi.tv/zqlive/264147_VU1iK.m3u8
-美7琪,https://dlhls-cdn-mp.zhanqi.tv/zqlive/182325_z3jRr.m3u8
-七侠镇同福客栈,https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
-小0零0,https://dlhls-cdn-mp.zhanqi.tv/zqlive/246527_Mhbol.m3u8
-战旗馨馨,https://dlhls-cdn-mp.zhanqi.tv/zqlive/264417_dPUXM.m3u8
-战旗佑佑,https://dlhls-cdn-mp.zhanqi.tv/zqlive/264421_0rVE9.m3u8
-格格战旗直播,https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.m3u8
-囧叔叔,https://dlhls-cdn-mp.zhanqi.tv/zqlive/289178_v9Awm.m3u8
-美7琪丶柯南,https://dlhls-cdn-mp.zhanqi.tv/zqlive/272718_3SINd.m3u8
 黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
