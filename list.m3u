@@ -163,6 +163,545 @@ http://al.rtmp.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253
 http://al.rtmp.huya.com/huyalive/90240568-90240568-387580288332464128-1582926006-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/29/688e85c4509728831c578c7517e0f7_180_135.jpg" group-title="虎牙",痞子帅叔叔-女-3M
 http://al.rtmp.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="咪咕",CCTV1综合高清
+http://47.240.60.73/migu.php?id=608807420
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="咪咕",CCTV2财经高清
+http://47.240.60.73/migu.php?id=631780532
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="咪咕",CCTV4中文国际高清
+http://47.240.60.73/migu.php?id=631780421
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="咪咕",CCTV10科教高清
+http://47.240.60.73/migu.php?id=624878405
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="咪咕",CCTV14少儿高清
+http://47.240.60.73/migu.php?id=624878440
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="咪咕",CCTV1综合
+http://47.240.60.73/migu.php?id=608807427
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="咪咕",CCTV2财经
+http://47.240.60.73/migu.php?id=635492309
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="咪咕",CCTV3综艺
+http://47.240.60.73/migu.php?id=609017193
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="咪咕",CCTV4中文国际
+http://47.240.60.73/migu.php?id=608807424
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="咪咕",CCTV-5体育
+http://47.240.60.73/migu.php?id=641886657
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="咪咕",CCTV5+体育赛事
+http://47.240.60.73/migu.php?id=641886733
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="咪咕",CCTV6电影
+http://47.240.60.73/migu.php?id=608919883
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="咪咕",CCTV8电视剧
+http://47.240.60.73/migu.php?id=609154254
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="咪咕",CCTV9纪录
+http://47.240.60.73/migu.php?id=608920109
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="咪咕",CCTV9Documentary
+http://47.240.60.73/migu.php?id=609006487
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="咪咕",CCTV10科教
+http://47.240.60.73/migu.php?id=608880731
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="咪咕",CCTV11戏曲
+http://47.240.60.73/migu.php?id=609017121
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="咪咕",CCTV12社会与法
+http://47.240.60.73/migu.php?id=609017191
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="咪咕",CCTV14少儿
+http://47.240.60.73/migu.php?id=609017204
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="咪咕",CCTV15音乐
+http://47.240.60.73/migu.php?id=608807408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CCTV法语
+http://47.240.60.73/migu.php?id=609006476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CCTV西班牙语
+http://47.240.60.73/migu.php?id=609006450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CCTV俄语
+http://47.240.60.73/migu.php?id=609006446
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="咪咕",北京卫视高清
+http://47.240.60.73/migu.php?id=630287636
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="咪咕",安徽卫视高清
+http://47.240.60.73/migu.php?id=644933992
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="咪咕",四川卫视高清
+http://47.240.60.73/migu.php?id=630288361
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="咪咕",江苏卫视高清
+http://47.240.60.73/migu.php?id=623899368
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="咪咕",江苏卫视
+http://47.240.60.73/migu.php?id=623899540
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="咪咕",东方卫视
+http://47.240.60.73/migu.php?id=651625930
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="咪咕",北京卫视
+http://47.240.60.73/migu.php?id=630287661
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="咪咕",安徽卫视
+http://47.240.60.73/migu.php?id=630971260
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="咪咕",广东卫视
+http://47.240.60.73/migu.php?id=608831538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山东教育
+http://47.240.60.73/migu.php?id=609154353
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="咪咕",广西卫视
+http://47.240.60.73/migu.php?id=634055160
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="咪咕",河南卫视
+http://47.240.60.73/migu.php?id=635489820
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="咪咕",黑龙江卫视
+http://47.240.60.73/migu.php?id=630288601
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="咪咕",东南卫视
+http://47.240.60.73/migu.php?id=651642156
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="咪咕",天津卫视
+http://47.240.60.73/migu.php?id=631094458
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="咪咕",甘肃卫视
+http://47.240.60.73/migu.php?id=630287549
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="咪咕",西藏卫视
+http://47.240.60.73/migu.php?id=630291593
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="咪咕",兵团卫视
+http://47.240.60.73/migu.php?id=630288004
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="咪咕",旅游卫视
+http://47.240.60.73/migu.php?id=633215355
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="咪咕",重庆卫视
+http://47.240.60.73/migu.php?id=630288006
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="咪咕",江西卫视
+http://47.240.60.73/migu.php?id=630290852
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="咪咕",河北卫视
+http://47.240.60.73/migu.php?id=630292528
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="咪咕",吉林卫视
+http://47.240.60.73/migu.php?id=630288397
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="咪咕",辽宁卫视
+http://47.240.60.73/migu.php?id=623583504
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="咪咕",山西卫视
+http://47.240.60.73/migu.php?id=630289043
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="咪咕",厦门卫视
+http://47.240.60.73/migu.php?id=630285654
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="咪咕",云南卫视
+http://47.240.60.73/migu.php?id=630291417
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="咪咕",内蒙古卫视
+http://47.240.60.73/migu.php?id=630287015
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="咪咕",宁夏卫视
+http://47.240.60.73/migu.php?id=630287436
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="咪咕",新疆卫视
+http://47.240.60.73/migu.php?id=635385783
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="咪咕",青海卫视
+http://47.240.60.73/migu.php?id=630287272
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="咪咕",陕西卫视
+http://47.240.60.73/migu.php?id=630287233
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="咪咕",湖北卫视
+http://47.240.60.73/migu.php?id=630288760
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="咪咕",贵州卫视
+http://47.240.60.73/migu.php?id=631094827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CETV1
+http://47.240.60.73/migu.php?id=649531772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CETV2
+http://47.240.60.73/migu.php?id=649532169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CETV3
+http://47.240.60.73/migu.php?id=649531756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CETV4
+http://47.240.60.73/migu.php?id=649531725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CETV1高清
+http://47.240.60.73/migu.php?id=649531734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",黄金剧场
+http://47.240.60.73/migu.php?id=625155140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",军旅剧场
+http://47.240.60.73/migu.php?id=625643517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",精品国产剧
+http://47.240.60.73/migu.php?id=625574378
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",乡村爱情剧场
+http://47.240.60.73/migu.php?id=625774662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",激情夜场影院
+http://47.240.60.73/migu.php?id=625188208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",红色谍战剧场
+http://47.240.60.73/migu.php?id=634274665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",每日科幻电影
+http://47.240.60.73/migu.php?id=625204865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",周星驰影院
+http://47.240.60.73/migu.php?id=623338112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",追剧少女
+http://47.240.60.73/migu.php?id=617432318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",怀旧老片
+http://47.240.60.73/migu.php?id=621640582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",武侠剧场
+http://47.240.60.73/migu.php?id=627198822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",动漫剧场
+http://47.240.60.73/migu.php?id=627198751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",假期剧场
+http://47.240.60.73/migu.php?id=627198692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典频道
+http://47.240.60.73/migu.php?id=625542369
+#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="咪咕",精品剧场
+http://47.240.60.73/migu.php?id=615810094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",四大着剧场
+http://47.240.60.73/migu.php?id=625498432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",东方电影高清
+http://47.240.60.73/migu.php?id=623674834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典放映厅
+http://47.240.60.73/migu.php?id=626157533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",射雕剧场
+http://47.240.60.73/migu.php?id=625681367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",立面包青天
+http://47.240.60.73/migu.php?id=625521420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",金庸频道
+http://47.240.60.73/migu.php?id=625774640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",小戏骨剧场
+http://47.240.60.73/migu.php?id=625526423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",华视火爆劲片
+http://47.240.60.73/migu.php?id=624999147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",笑傲江湖
+http://47.240.60.73/migu.php?id=625759558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",鹿鼎记
+http://47.240.60.73/migu.php?id=625681368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",刘涛作品集
+http://47.240.60.73/migu.php?id=625514969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",天龙八部集
+http://47.240.60.73/migu.php?id=625703337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",盗墓方法论
+http://47.240.60.73/migu.php?id=625525181
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="咪咕",CCTV8
+http://47.240.60.73/migu.php?id=609154254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN电影频道
+http://47.240.60.73/migu.php?id=630518326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN喜剧影院
+http://47.240.60.73/migu.php?id=609154087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN经典剧场
+http://47.240.60.73/migu.php?id=621780899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",BTV体育
+http://47.240.60.73/migu.php?id=641874369
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",冰球中国直播赛事
+http://47.240.60.73/migu.php?id=622098642
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕早教频道
+http://47.240.60.73/migu.php?id=617432495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",海底小纵队
+http://47.240.60.73/migu.php?id=639528330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",男宝宝最爱
+http://47.240.60.73/migu.php?id=639528180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",女宝宝最爱
+http://47.240.60.73/migu.php?id=639528313
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="咪咕",优漫卡通频道
+http://47.240.60.73/migu.php?id=626064703
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="咪咕",CCTV13新闻
+http://47.240.60.73/migu.php?id=608807423
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="咪咕",上海新闻综合高清
+http://47.240.60.73/migu.php?id=651632657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",南京新闻综合
+http://47.240.60.73/migu.php?id=629243982
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",赤壁新闻综合频道
+http://47.240.60.73/migu.php?id=638811454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",BBC独家
+http://47.240.60.73/migu.php?id=633138330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",上视纪实频道高清
+http://47.240.60.73/migu.php?id=617289997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",Discovery独家
+http://47.240.60.73/migu.php?id=639528386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",Discovery王牌节目展播
+http://47.240.60.73/migu.php?id=637483721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",BBC地平线系列展播
+http://47.240.60.73/migu.php?id=637444830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",探索纪录
+http://47.240.60.73/migu.php?id=615809560
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="咪咕",上海都市频道HD
+http://47.240.60.73/migu.php?id=651638801
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="咪咕",上海都市频道
+http://47.240.60.73/migu.php?id=651642246
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="咪咕",上海新闻综合HD
+http://47.240.60.73/migu.php?id=651632657
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="咪咕",上海电视剧HD
+http://47.240.60.73/migu.php?id=617290047
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="咪咕",上海新闻综合
+http://47.240.60.73/migu.php?id=651638663
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="咪咕",上海纪实
+http://47.240.60.73/migu.php?id=618954695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",上海外语
+http://47.240.60.73/migu.php?id=618954688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",上海艺术人文
+http://47.240.60.73/migu.php?id=651632875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",上海老辰光
+http://47.240.60.73/migu.php?id=639528181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",杭州影视频道
+http://47.240.60.73/migu.php?id=611373913
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",苏州新闻综合
+http://47.240.60.73/migu.php?id=639731952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",苏州新闻综合
+http://47.240.60.73/migu.php?id=639731952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",苏州新闻综合
+http://47.240.60.73/migu.php?id=639731952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",无锡新闻综合
+http://47.240.60.73/migu.php?id=639737327
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",常州新闻综合
+http://47.240.60.73/migu.php?id=639731892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",扬州新闻综合
+http://47.240.60.73/migu.php?id=639731888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",泰州新闻综合
+http://47.240.60.73/migu.php?id=639731818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",盐城新闻综合
+http://47.240.60.73/migu.php?id=639731825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",淮安新闻综合
+http://47.240.60.73/migu.php?id=639731826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",镇江新闻综合
+http://47.240.60.73/migu.php?id=639731783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",徐州新闻综合
+http://47.240.60.73/migu.php?id=639731747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",宿迁新闻综合
+http://47.240.60.73/migu.php?id=639731832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",连云港新闻综合
+http://47.240.60.73/migu.php?id=639731715
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",江苏综艺频道
+http://47.240.60.73/migu.php?id=626065193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",江苏城市频道
+http://47.240.60.73/migu.php?id=626064714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",江苏影视频道
+http://47.240.60.73/migu.php?id=626064697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",体育休闲频道
+http://47.240.60.73/migu.php?id=626064707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",江苏学习频道
+http://47.240.60.73/migu.php?id=626881786
+#EXTINF:-1 tvg-id="1044" tvg-name="靓妆频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png" group-title="咪咕",江苏靓妆频道
+http://47.240.60.73/migu.php?id=626064675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",汉中综合频道
+http://47.240.60.73/migu.php?id=650216404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",汉中公共频道
+http://47.240.60.73/migu.php?id=650217163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",孝感公共频道
+http://47.240.60.73/migu.php?id=638557579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",恩施新闻综合频道
+http://47.240.60.73/migu.php?id=638811570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",恩施公共频道
+http://47.240.60.73/migu.php?id=638811568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",长阳综合频道
+http://47.240.60.73/migu.php?id=640773533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",赤壁二套
+http://47.240.60.73/migu.php?id=638811534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西少儿
+http://47.240.60.73/migu.php?id=628472619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西公共
+http://47.240.60.73/migu.php?id=628472786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西科教频道
+http://47.240.60.73/migu.php?id=628472792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西影视频道
+http://47.240.60.73/migu.php?id=628472887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",北海新闻综合频道
+http://47.240.60.73/migu.php?id=652487503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",北海经济科教频道
+http://47.240.60.73/migu.php?id=653712739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",甘肃品质生活频道
+http://47.240.60.73/migu.php?id=630641529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",甘肃移动电视频道
+http://47.240.60.73/migu.php?id=630641593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",甘肃公共频道
+http://47.240.60.73/migu.php?id=630641625
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",甘肃都市频道
+http://47.240.60.73/migu.php?id=630641756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",天津宁河电视台综合新闻
+http://47.240.60.73/migu.php?id=639176324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",贵阳电视台法制频道
+http://47.240.60.73/migu.php?id=639176544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",贵阳电视台旅游生活频道
+http://47.240.60.73/migu.php?id=639177347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",广东体育
+http://47.240.60.73/migu.php?id=624303497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",南京教科频道
+http://47.240.60.73/migu.php?id=629243936
+#EXTINF:-1 tvg-id="6571" tvg-name="彩民在线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/caiminzaixian.png" group-title="咪咕",山西彩民在线
+http://47.240.60.73/migu.php?id=628472211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西经济资讯频道
+http://47.240.60.73/migu.php?id=628472942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",山西黄河电视台
+http://47.240.60.73/migu.php?id=628473059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",漳县综合频道
+http://47.240.60.73/migu.php?id=637620045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",北海公共频道
+http://47.240.60.73/migu.php?id=653712657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",甘肃文化影视频道
+http://47.240.60.73/migu.php?id=630641855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",中国黄河电视台
+http://47.240.60.73/migu.php?id=628472544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN电影导视
+http://47.240.60.73/migu.php?id=613882914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN动漫频道
+http://47.240.60.73/migu.php?id=618338946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN华语影院
+http://47.240.60.73/migu.php?id=626980563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN综合
+http://47.240.60.73/migu.php?id=624185088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN院线大片
+http://47.240.60.73/migu.php?id=624185089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN动作影院
+http://47.240.60.73/migu.php?id=621635004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN好莱坞
+http://47.240.60.73/migu.php?id=621634965
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN真人秀
+http://47.240.60.73/migu.php?id=621780947
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN微电影
+http://47.240.60.73/migu.php?id=622331590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN财经
+http://47.240.60.73/migu.php?id=622324891
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN旅游
+http://47.240.60.73/migu.php?id=622324976
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN流金岁月
+http://47.240.60.73/migu.php?id=622324928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIB文化中国
+http://47.240.60.73/migu.php?id=622324914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBN热播剧场
+http://47.240.60.73/migu.php?id=618338948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",CIBNTEA电竞频道
+http://47.240.60.73/migu.php?id=618338945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",新视讯直播
+http://47.240.60.73/migu.php?id=628335133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",壹间
+http://47.240.60.73/migu.php?id=628688149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",i综
+http://47.240.60.73/migu.php?id=608793463
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="咪咕",游戏风云高清
+http://47.240.60.73/migu.php?id=623674815
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="咪咕",金鹰纪实频道
+http://47.240.60.73/migu.php?id=623604663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",我的音乐故事高清
+http://47.240.60.73/migu.php?id=609006734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",法治天地
+http://47.240.60.73/migu.php?id=631095330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",in乐台
+http://47.240.60.73/migu.php?id=608796940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",点掌财经
+http://47.240.60.73/migu.php?id=638028966
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="咪咕",四海钓鱼
+http://47.240.60.73/migu.php?id=650999610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",高清影视
+http://47.240.60.73/migu.php?id=617432318
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="咪咕",嘉佳卡通
+http://47.240.60.73/migu.php?id=614952364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",e娱乐
+http://47.240.60.73/migu.php?id=608796678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",胡歌
+http://47.240.60.73/aqy.php?id=3807164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",王凯
+http://47.240.60.73/aqy.php?id=3807180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",靳东
+http://47.240.60.73/aqy.php?id=3807182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",唐嫣
+http://47.240.60.73/aqy.php?id=3807184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",聂远
+http://47.240.60.73/aqy.php?id=4013101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",倪大妮
+http://47.240.60.73/aqy.php?id=3807186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",朱亚文
+http://47.240.60.73/aqy.php?id=3807168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",赵丽颖
+http://47.240.60.73/aqy.php?id=3806664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",张嘉译
+http://47.240.60.73/aqy.php?id=3806662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",岳云鹏
+http://47.240.60.73/aqy.php?id=3801731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",郭德纲
+http://47.240.60.73/aqy.php?id=3802073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",家有儿女
+http://47.240.60.73/aqy.php?id=3807172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",情景喜剧
+http://47.240.60.73/aqy.php?id=3801150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",热播剧场
+http://47.240.60.73/aqy.php?id=3801853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",抗战剧场
+http://47.240.60.73/aqy.php?id=3802154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",碟战剧场
+http://47.240.60.73/aqy.php?id=3802157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",家庭剧场
+http://47.240.60.73/aqy.php?id=3801149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",青春剧场
+http://47.240.60.73/aqy.php?id=3802161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典重温
+http://47.240.60.73/aqy.php?id=3801152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",军旅剧场
+http://47.240.60.73/aqy.php?id=3801151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",宫廷正剧
+http://47.240.60.73/aqy.php?id=3801153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",央视大剧
+http://47.240.60.73/aqy.php?id=3802288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",收视冠军
+http://47.240.60.73/aqy.php?id=3801285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",卫视江苏
+http://47.240.60.73/aqy.php?id=3801759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",卫视东方
+http://47.240.60.73/aqy.php?id=3801653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",卫视湖南
+http://47.240.60.73/aqy.php?id=3801385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",卫视浙江
+http://47.240.60.73/aqy.php?id=3801154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",宰相刘永
+http://47.240.60.73/aqy.php?id=3807170
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="咪咕",怀旧剧场
+http://47.240.60.73/aqy.php?id=4013103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",特种兵
+http://47.240.60.73/aqy.php?id=3807192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",医院故事
+http://47.240.60.73/aqy.php?id=3807190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",办公室故事
+http://47.240.60.73/aqy.php?id=3807194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",口碑年代
+http://47.240.60.73/aqy.php?id=3807198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",城乡生活
+http://47.240.60.73/aqy.php?id=3807200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",老戏骨
+http://47.240.60.73/aqy.php?id=3807202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",老年剧场
+http://47.240.60.73/aqy.php?id=3807206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",婚姻剧场
+http://47.240.60.73/aqy.php?id=3807208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",权谋剧场
+http://47.240.60.73/aqy.php?id=3807212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",小说改编
+http://47.240.60.73/aqy.php?id=3807210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",广场舞
+http://47.240.60.73/aqy.php?id=3801863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",热血搏击
+http://47.240.60.73/aqy.php?id=3801216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",爆笑精选
+http://47.240.60.73/aqy.php?id=3801921
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",文化奇谈
+http://47.240.60.73/aqy.php?id=3802071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",相亲选秀
+http://47.240.60.73/aqy.php?id=3801156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",爱情保卫战
+http://47.240.60.73/aqy.php?id=3801919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",情感调解
+http://47.240.60.73/aqy.php?id=3801155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",金牌调解
+http://47.240.60.73/aqy.php?id=4013113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",第三调解室
+http://47.240.60.73/aqy.php?id=3807226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",经典纪实
+http://47.240.60.73/aqy.php?id=3807222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",脱口秀
+http://47.240.60.73/aqy.php?id=3801895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",真人秀
+http://47.240.60.73/aqy.php?id=3801918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",重磅综艺
+http://47.240.60.73/aqy.php?id=3801893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",奇妙世界
+http://47.240.60.73/aqy.php?id=3801213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",美食厨房
+http://47.240.60.73/aqy.php?id=3801870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",纪录片编辑
+http://47.240.60.73/aqy.php?id=3807146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",故宫
+http://47.240.60.73/aqy.php?id=3807144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",养生堂
+http://47.240.60.73/aqy.php?id=3802162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",明星粉丝会
+http://47.240.60.73/aqy.php?id=3801917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",旅游攻略
+http://47.240.60.73/aqy.php?id=3801211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",自然地理
+http://47.240.60.73/aqy.php?id=3801158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",人文社会
+http://47.240.60.73/aqy.php?id=3801160
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="咪咕",历史秘闻
+http://47.240.60.73/aqy.php?id=3801159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",科学探索
+http://47.240.60.73/aqy.php?id=3801157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",军事观察
+http://47.240.60.73/aqy.php?id=3801212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",王牌对王牌
+http://47.240.60.73/aqy.php?id=3802286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",奔跑吧兄弟
+http://47.240.60.73/aqy.php?id=3801892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",周杰伦
+http://47.240.60.73/aqy.php?id=3801701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",音乐综艺
+http://47.240.60.73/aqy.php?id=3801729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",相声小品
+http://47.240.60.73/aqy.php?id=3801730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",喜剧大咖
+http://47.240.60.73/aqy.php?id=3801728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",英文儿歌
+http://47.240.60.73/aqy.php?id=3802218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",奥特曼
+http://47.240.60.73/aqy.php?id=3801762
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IQIYI",黑帮电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IQIYI",电影大片
