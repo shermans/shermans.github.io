@@ -1,15 +1,13 @@
 虎牙精选,#genre#
 李永乐老师 ,http://tx.hls.huya.com/src/1099531752696-1099531752696-86435873234616320-2199063628848-10057-A-0-1.m3u8
+电影最TOP,http://aldirect.hls.huya.com/backsrc/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1_2500.m3u8
+虎牙观影团,http://aldirect.hls.huya.com/backsrc/30765679-2743063560-11781368281049333760-3048991606-10057-A-0-1_2500.m3u8
+阿斗说电影,http://aldirect.hls.huya.com/backsrc/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_2500.m3u8
 老梁观世界 ,http://tx.hls.huya.com/src/1099531752683-1099531752683-86435817400041472-2199063628822-10057-A-0-1.m3u8
 老梁故事汇 ,http://tx.hls.huya.com/src/1099531752682-1099531752682-86435813105074176-2199063628820-10057-A-0-1.m3u8
 备胎说车 ,http://tx.hls.huya.com/src/1099531752693-1099531752693-86435860349714432-2199063628842-10057-A-0-1.m3u8
 空中英语教室06 ,http://tx.hls.huya.com/src/1099531752621-1099531752621-86435551112069120-2199063628698-10057-A-0-1.m3u8
-几个动作疏通全身气血 ,http://tx.hls.huya.com/src/1199530438467-1199530438467-5302407207340474368-2399061000390-10057-A-0-1.m3u8
 阿钙扒瞎,http://aldirect.hls.huya.com/huyalive/94525224-2702006072-11605027712833421312-4580673800-10057-A-0-1_2500.m3u8
-电影最TOP,http://aldirect.hls.huya.com/backsrc/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1_2500.m3u8
-谷阿莫,http://aldirect.hls.huya.com/huyalive/1444266573-1444266573-6203077697740996608-4623578078-10057-A-0-1_2500.m3u8
-虎牙观影团,http://aldirect.hls.huya.com/backsrc/30765679-2743063560-11781368281049333760-3048991606-10057-A-0-1_2500.m3u8
-阿斗说电影,http://aldirect.hls.huya.com/backsrc/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_2500.m3u8
 越哥说电影,http://aldirect.hls.huya.com/huyalive/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1_2500.m3u8
 志戈电影,http://aldirect.hls.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1_2500.m3u8
 影视新起点,http://aldirect.hls.huya.com/huyalive/94525224-2704830178-11617157155743858688-3252053758-10057-A-0-1_2500.m3u8
@@ -348,6 +346,9 @@ CIBN童学世界,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIB
 CIBN文化中国,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN艺术院线,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 央视频道,#genre#
+湖南卫视高清,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+浙江卫视高清,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+江苏卫视高清,http://ivi.bupt.edu.cn/hls/jshd.m3u8
 【央视新闻】共同战“疫”,http://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1_2500.m3u8
 CCTV-1综合高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-3综艺高清,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -358,9 +359,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺高清,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京纪实高清,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-湖南卫视高清,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-浙江卫视高清,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-江苏卫视高清,http://ivi.bupt.edu.cn/hls/jshd.m3u8
 东方卫视高清,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 安徽卫视高清,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 黑龙江卫视高清,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
