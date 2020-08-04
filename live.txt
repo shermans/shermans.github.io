@@ -1,59 +1,30 @@
 临时直播,#genre#
 小猪佩奇,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-330-0721-0240-13247_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512353&vkey=
 超级宝贝JOJO,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-656-0711-1531-32536_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512440&vkey=
-三十而已,#genre#
-第01集,https://www.166396.com/20200717/MnxO2fir/index.m3u8
-第02集,https://www.166396.com/20200717/Rk1onsJu/index.m3u8
-第03集,https://www.166396.com/20200717/URCEmhq0/index.m3u8
-第04集,https://www.166396.com/20200717/urdbDtoW/index.m3u8
-第05集,https://www.166396.com/20200718/KvThXuLr/index.m3u8
-第06集,https://www.166396.com/20200719/Qofzm5ue/index.m3u8
-第07集,https://www.166396.com/20200719/5yVxLSOs/index.m3u8
-第08集,https://www.166396.com/20200720/G4IFXQf9/index.m3u8
-第09集,https://www.166396.com/20200720/rLpKfaB4/index.m3u8
-第10集,https://www.166396.com/20200721/tXPzSxQb/index.m3u8
-第11集,https://www.166396.com/20200721/W9YI51No/index.m3u8
-第12集,https://www.166396.com/20200722/Hht2GneO/index.m3u8
-第13集,https://www.166396.com/20200722/TsLM3Bin/index.m3u8
-第14集,https://www.166396.com/20200723/wp8Axmry/index.m3u8
-第15集,https://www.166396.com/20200723/D0wNkOA3/index.m3u8
-第16集,https://www.166396.com/20200724/nGL6Yfst/index.m3u8
-第17集,https://www.166396.com/20200724/w6XNQzKv/index.m3u8
-第18集,https://www.166396.com/20200725/jqUe5cEW/index.m3u8
-第19集,https://www.166396.com/20200726/NawyivAD/index.m3u8
-第20集,https://www.166396.com/20200726/qOWx3sHv/index.m3u8
-第21集,https://www.166396.com/20200727/kUKqGbmh/index.m3u8
-第22集,https://www.166396.com/20200727/eBQuVPc7/index.m3u8
-第23集,https://www.166396.com/20200728/LtUkK3ec/index.m3u8
-第24集,https://www.166396.com/20200728/TIwtbpEK/index.m3u8
-第25集,https://www.166396.com/20200730/W8n3fowO/index.m3u8
-第26集,https://www.166396.com/20200730/CYS4deyf/index.m3u8
-第27集,https://www.166396.com/20200730/txHgojNK/index.m3u8
-第28集,https://www.166396.com/20200730/7JCVnce0/index.m3u8
-第29集,https://www.166796.com/20200731/dEl95wtU/index.m3u8
-第30集,https://www.166796.com/20200731/rPglvfHL/index.m3u8
-第31集,https://www.166796.com/20200801/ElpKAfuF/index.m3u8
-第32集,https://www.166796.com/20200802/NjKoZacT/index.m3u8
-第33集,https://www.166796.com/20200802/NnFUqmdZ/index.m3u8
-第34集,https://www.166396.com/20200803/3aV7D4hB/index.m3u8
-第35集,https://www.166396.com/20200803/we9NopL0/index.m3u8
-第36集,https://www.166396.com/20200803/2eIUbS0h/index.m3u8
-第37集,https://www.166396.com/20200803/or5ypMTq/index.m3u8
-第38集,https://www.166396.com/20200803/RM98ryXn/index.m3u8
-第39集,https://www.166396.com/20200803/xwMtp7bo/index.m3u8
-第40集,https://www.166396.com/20200803/MudZIoCj/index.m3u8
-第41集,https://www.166396.com/20200803/K5EyhV2S/index.m3u8
-第42集,https://www.166396.com/20200803/ryTR5JYv/index.m3u8
-第43集,https://www.166396.com/20200803/rBKPVexS/index.m3u8
-轮播电影,#genre#
-海爷TV 2号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
-海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
-海爷TV 4号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
-海爷TV 5号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_199793349_7660540.m3u8
-海爷TV 6号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_7132099.m3u8
-海爷TV 7号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
-海爷TV 8号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
-海爷TV 9号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
+电影轮播,#genre#
+欧美影视500部,http://sousou2.top/dl/yy1.php?t=1353281165
+欧美新电影500部,http://sousou2.top/dl/yy1.php?t=14503914
+欧美电影狙击动作,http://sousou2.top/dl/yy1.php?t=1331053117
+天龙倚天笑傲,http://sousou2.top/dl/yy1.php?t=1351814644
+神雕侠侣倚天屠龙,http://sousou2.top/dl/yy1.php?t=1351762426
+香港赌片精彩不间断,http://sousou2.top/dl/yy1.php?t=29900720
+经典港片动作枪战恩仇,http://sousou2.top/dl/yy1.php?t=37758710
+周星驰经典搞笑赌片,http://sousou2.top/dl/yy1.php?t=1353881242
+林正英鬼片影视,http://sousou2.top/dl/yy1.php?t=1353018737
+爱情公寓超清,http://sousou2.top/dl/yy1.php?t=38525272
+港片赌片动作喜剧,http://sousou2.top/dl/yy1.php?t=28751126
+林正英相亲恋爱奇幻僵尸女鬼,http://sousou2.top/dl/yy1.php?t=24066336
+发哥赌神电影系列,http://sousou2.top/dl/yy1.php?t=39589923
+林正英僵尸女鬼惊险刺激,http://sousou2.top/dl/yy1.php?t=28996058
+鹿鼎记高清经典,http://sousou2.top/dl/yy1.php?t=28265277
+猪猪陪你看,http://sousou2.top/dl/yy1.php?t=33519757
+林正英鬼片500部,http://sousou2.top/dl/yy1.php?t=1353059120
+胡歌郡主,http://sousou2.top/dl/yy1.php?t=35467265
+经典西游记高清字幕版,http://sousou2.top/dl/yy1.php?t=1352677541
+林正英僵尸王系列,http://sousou2.top/dl/yy1.php?t=1353685311
+成龙经典动作搞笑,http://sousou2.top/dl/yy1.php?t=34460526
+僵尸女鬼24小时播放,http://sousou2.top/dl/yy1.php?t=79049030
+盗墓玄幻电影精彩刺激,http://sousou2.top/dl/yy1.php?t=29958059
 周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 经典电影,http://tx2play1.douyucdn.cn/live/218859rMWyegOHln.flv
 神探狄仁杰,http://tx2play1.douyucdn.cn/live/674441rW3ZzXPGGQ.flv#http://tx2play1.douyucdn.cn/live/6166636rJyTScpCH.flv
