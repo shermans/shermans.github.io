@@ -1,3 +1,6 @@
+临时直播,#genre#
+小猪佩奇,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-330-0721-0240-13247_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512353&vkey=
+超级宝贝JOJO,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-656-0711-1531-32536_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512440&vkey=
 轮播电影,#genre#
 海爷TV 2号厅,https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
 海爷TV 2号厅,https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/731624/live_268522326_2538218.m3u8
