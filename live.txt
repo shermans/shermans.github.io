@@ -1,5 +1,29 @@
 临时直播,#genre#
-
+欢看电影❤,#genre#
+CCTV6 电影 HD,http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8
+CHC 家庭影院 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23cdc5e091a9c5ebaf.ts
+CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea87a04c9f21d673917.ts
+CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c6c0384974b8ace2f.ts
+FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec0703ff2d1deb991a.ts
+FOX优质,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
+FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
+FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
+FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd4705346add1747aa23.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+星卫电影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
+东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
+东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
+珠江电影,mitv://fccsovh.pvbox.live:18912/5b14094900043fac4aecf6e0b43220fa.ts
+伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
+美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
+卫视合家欢,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
+卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea40538018022108897.ts
+卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc5b0e2fd6870e128c.ts
+高清影院,mitv://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
+龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
 电影轮播,#genre#
 科幻影院,http://sousou2.top/dl/yy1.php?t=37988782
 欧美电影1,http://sousou2.top/dl/yy1.php?t=1331053117
