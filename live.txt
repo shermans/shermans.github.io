@@ -1,6 +1,5 @@
 临时直播,#genre#
-小猪佩奇,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-330-0721-0240-13247_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512353&vkey=
-超级宝贝JOJO,http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-656-0711-1531-32536_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1596512440&vkey=
+
 电影轮播,#genre#
 科幻影院,http://sousou2.top/dl/yy1.php?t=37988782
 欧美电影1,http://sousou2.top/dl/yy1.php?t=1331053117
@@ -105,16 +104,6 @@
 点歌的人,https://vd3.bdstatic.com/mda-kdi6hifkag5xsc4p/v1-cae/hd/mda-kdi6hifkag5xsc4p.mp4
 欧美动感DJ节奏舞曲-DontStopTheParty,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
 少儿频道,#genre#
-超级飞侠,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/50/index.m3u8?ProgramID=&encrypt= 超级飞侠#http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/75/index.m3u8?ProgramID=&encrypt= 超级飞侠
-小猪佩奇,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/50/index.m3u8?ProgramID=&encrypt= 小猪佩奇#http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/75/index.m3u8?ProgramID=&encrypt= 小猪佩奇
-少儿动漫,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/350/index.m3u8?ProgramID=&encrypt= 少儿动漫#http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?ProgramID=&encrypt= 少儿动漫
-快乐儿歌,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/50/20190827/index.m3u8?ProgramID=&encrypt= 快乐儿歌#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/51/20190827/index.m3u8?ProgramID=&encrypt= 快乐儿歌
-益智学堂,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/50/20190827/index.m3u8?ProgramID=&encrypt= 益智学堂#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/51/20190827/index.m3u8?ProgramID=&encrypt= 益智学堂
-梦幻童话,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/50/20190827/index.m3u8?ProgramID=&encrypt= 梦幻童话#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/51/20190827/index.m3u8?ProgramID=&encrypt= 梦幻童话
-英语启蒙,http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/50/20190827/index.m3u8?ProgramID=&encrypt= 英语启蒙#http://live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/51/20190827/index.m3u8?ProgramID=&encrypt= 英语启蒙
-优漫卡通,http://live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/350/index.m3u8?ProgramID=&encrypt= 优漫卡通#http://live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/600/index.m3u8?ProgramID=&encrypt= 优漫卡通
-哈哈炫动,http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt450/350/index.m3u8?ProgramID=&encrypt= 哈哈炫动#http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?ProgramID=&encrypt= 哈哈炫动
-嘉佳卡通,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/350/index.m3u8?ProgramID=&encrypt= 嘉佳卡通#http://live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?ProgramID=&encrypt= 嘉佳卡通
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
