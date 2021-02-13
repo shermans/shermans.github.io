@@ -1,3 +1,6 @@
+新片好片,#genre#
+晴雅集,https://d.mhqiyi.com/20210205/45GtZ3rK/index.m3u8#http://youku.cdn-11-zxzy.com/20210204/5978_c8f7ccb8/index.m3u8#http://youku.hao-yongjiu.com/20210212/7033_812e48da/index.m3u8#http://zy.kubozy-cdn-baidu.com/20210205/18777_f3df8093/index.m3u8#http://down.gang-kuyun.com/20210205/10602_b8936474/%E6%99%B4%E9%9B%85%E9%9B%86HD.mp4#http://xiazai.suanmiao-zuida.com/2102/Q%E9%9B%85%E9%9B%86.HD1280%E9%AB%98%E6%B8%85%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97%E7%89%88.mp4
+
 电影电视,#genre#
 阴阳师春和演武大会,http://stream.guihet.com/t/youkulive.php?id=8081116
 郑中基经典爆笑港片 ,http://stream.guihet.com/t/youkulive.php?id=8027935
