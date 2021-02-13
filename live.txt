@@ -1,11 +1,6 @@
-新片好片,#genre#
-晴雅集,https://d.mhqiyi.com/20210205/45GtZ3rK/index.m3u8#http://youku.cdn-11-zxzy.com/20210204/5978_c8f7ccb8/index.m3u8#http://youku.hao-yongjiu.com/20210212/7033_812e48da/index.m3u8#http://zy.kubozy-cdn-baidu.com/20210205/18777_f3df8093/index.m3u8#http://down.gang-kuyun.com/20210205/10602_b8936474/%E6%99%B4%E9%9B%85%E9%9B%86HD.mp4#http://xiazai.suanmiao-zuida.com/2102/Q%E9%9B%85%E9%9B%86.HD1280%E9%AB%98%E6%B8%85%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97%E7%89%88.mp4
-
 电影电视,#genre#
-阴阳师春和演武大会,http://stream.guihet.com/t/youkulive.php?id=8081116
-郑中基经典爆笑港片 ,http://stream.guihet.com/t/youkulive.php?id=8027935
-绝地求生好汉杯,http://stream.guihet.com/t/youkulive.php?id=8082994
-非人学园QwQ杯赛S5,http://stream.guihet.com/t/youkulive.php?id=8081115
+晴雅集,https://d.mhqiyi.com/20210205/45GtZ3rK/index.m3u8#http://youku.cdn-11-zxzy.com/20210204/5978_c8f7ccb8/index.m3u8#http://youku.hao-yongjiu.com/20210212/7033_812e48da/index.m3u8#http://zy.kubozy-cdn-baidu.com/20210205/18777_f3df8093/index.m3u8#http://down.gang-kuyun.com/20210205/10602_b8936474/%E6%99%B4%E9%9B%85%E9%9B%86HD.mp4#http://xiazai.suanmiao-zuida.com/2102/Q%E9%9B%85%E9%9B%86.HD1280%E9%AB%98%E6%B8%85%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97%E7%89%88.mp4
+西游记,http://stream.guihet.com/t/youkulive.php?id=8108856
 周星驰喜剧之王爆笑大片,http://stream.guihet.com/t/youkulive.php?id=8021901
 汪汪队立大功 和救援狗狗一起行动,http://stream.guihet.com/t/youkulive.php?id=8022353
 梁家辉经典电影大赏,http://stream.guihet.com/t/youkulive.php?id=8027873
@@ -16,7 +11,6 @@
 海底小纵队 精彩一起看,http://stream.guihet.com/t/youkulive.php?id=8019248
 粤语片周润发缪骞人华丽凄美爱情,http://stream.guihet.com/t/youkulive.php?id=8019007
 济公,http://stream.guihet.com/t/youkulive.php?id=8108859
-西游记,http://stream.guihet.com/t/youkulive.php?id=8108856
 少儿频道,#genre#
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -231,134 +225,6 @@ JoJo91,https://iqiyi.cdn9-okzy.com/20200801/13375_eb9ae79e/index.m3u8
 JoJo92,https://iqiyi.cdn9-okzy.com/20200801/13376_01cb3ca1/index.m3u8
 JoJo93,https://iqiyi.cdn9-okzy.com/20200809/13716_ebfa2ba7/index.m3u8
 JoJo94,https://iqiyi.cdn9-okzy.com/20200815/14002_948abb4d/index.m3u8
-欢看电影,#genre#
-CCTV6 电影 HD,http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8
-CHC 家庭影院 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0004ba23cdc5e091a9c5ebaf.ts
-CHINA MOVIE,mitv://fccseuro.pvbox.live:18912/5b14095e00097ea87a04c9f21d673917.ts
-CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3c6c0384974b8ace2f.ts
-FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434e2fd3bf4c7f40c797.ts
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec0703ff2d1deb991a.ts
-FOX优质,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d585a8480a4ebc703.ts
-FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d6def2b7bfc5996a48.ts
-FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945caf5e4be649b0460c3.ts
-FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd4705346add1747aa23.ts
-HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts
-好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
-星卫电影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a1de978c32eaafddd.ts
-东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad1076b0d328d567031.ts
-东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe281ffe7b699b8ccda.ts
-珠江电影,mitv://fccsovh.pvbox.live:18912/5b14094900043fac4aecf6e0b43220fa.ts
-伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b65820c35557c54ec.ts
-美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f0007961555aceecec68bb109.ts
-卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07ab9e1941b4529a7b.ts
-卫视合家欢,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd418df7b0cf26ad4d95.ts
-卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea40538018022108897.ts
-卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc5b0e2fd6870e128c.ts
-高清影院,mitv://fccseuro.pvbox.live:18912/5b140a1600025764e0c01b4269103f01.ts
-龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b6979810e84e0e7d5.ts
-电影轮播,#genre#
-科幻影院,http://sousou2.top/dl/yy1.php?t=37988782
-欧美电影1,http://sousou2.top/dl/yy1.php?t=1331053117
-科幻电影,http://sousou2.top/dl/yy1.php?t=35133142
-海外,http://sousou2.top/dl/yy1.php?t=1353426319
-欧美专场,http://sousou2.top/dl/yy1.php?t=29170933
-杰森斯坦森,http://sousou2.top/dl/yy1.php?t=35292562
-欧美科幻3,http://sousou2.top/dl/yy1.php?t=32140089
-海外精品影院,http://sousou2.top/dl/yy1.php?t=88009971
-速度与激情,http://sousou2.top/dl/yy1.php?t=22937730
-高清电影,http://sousou2.top/dl/yy1.php?t=1351053003
-欧美影视500部,http://sousou2.top/dl/yy1.php?t=1353281165
-欧美新电影500部,http://sousou2.top/dl/yy1.php?t=14503914
-欧美电影狙击动作,http://sousou2.top/dl/yy1.php?t=1331053117
-天龙倚天笑傲,http://sousou2.top/dl/yy1.php?t=1351814644
-神雕侠侣倚天屠龙,http://sousou2.top/dl/yy1.php?t=1351762426
-香港赌片精彩不间断,http://sousou2.top/dl/yy1.php?t=29900720
-经典港片动作枪战恩仇,http://sousou2.top/dl/yy1.php?t=37758710
-周星驰经典搞笑赌片,http://sousou2.top/dl/yy1.php?t=1353881242
-林正英鬼片影视,http://sousou2.top/dl/yy1.php?t=1353018737
-爱情公寓超清,http://sousou2.top/dl/yy1.php?t=38525272
-港片赌片动作喜剧,http://sousou2.top/dl/yy1.php?t=28751126
-林正英相亲恋爱奇幻僵尸女鬼,http://sousou2.top/dl/yy1.php?t=24066336
-发哥赌神电影系列,http://sousou2.top/dl/yy1.php?t=39589923
-林正英僵尸女鬼惊险刺激,http://sousou2.top/dl/yy1.php?t=28996058
-鹿鼎记高清经典,http://sousou2.top/dl/yy1.php?t=28265277
-猪猪陪你看,http://sousou2.top/dl/yy1.php?t=33519757
-林正英鬼片500部,http://sousou2.top/dl/yy1.php?t=1353059120
-胡歌郡主,http://sousou2.top/dl/yy1.php?t=35467265
-经典西游记高清字幕版,http://sousou2.top/dl/yy1.php?t=1352677541
-林正英僵尸王系列,http://sousou2.top/dl/yy1.php?t=1353685311
-成龙经典动作搞笑,http://sousou2.top/dl/yy1.php?t=34460526
-僵尸女鬼24小时播放,http://sousou2.top/dl/yy1.php?t=79049030
-盗墓玄幻电影精彩刺激,http://sousou2.top/dl/yy1.php?t=29958059
-周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-经典电影,http://tx2play1.douyucdn.cn/live/218859rMWyegOHln.flv
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/674441rW3ZzXPGGQ.flv#http://tx2play1.douyucdn.cn/live/6166636rJyTScpCH.flv
-周星驰-爱美剧,https://zb3.qhqsnedu.com/live/zhouxingxinga/playlist.m3u8
-林正英-爱美剧,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
-嗨曲,#genre#
-欧美动感DJ节奏舞曲-DontStopTheParty,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-1-MKV,http://em.21dtv.com/songs/60110001.mkv
-2-MKV,http://em.21dtv.com/songs/60110002.mkv
-3-MKV,http://em.21dtv.com/songs/60110003.mkv
-4-MKV,http://em.21dtv.com/songs/60110006.mkv
-5-MKV,http://em.21dtv.com/songs/60110004.mkv
-6-MKV,http://em.21dtv.com/songs/60110007.mkv
-7-MKV,http://em.21dtv.com/songs/60110005.mkv
-8-MKV,http://em.21dtv.com/songs/60110008.mkv
-9-MKV,http://em.21dtv.com/songs/60110009.mkv
-10-MKV,http://em.21dtv.com/songs/60110011.mkv
-11-MKV,http://em.21dtv.com/songs/60110012.mkv
-12-MKV,http://em.21dtv.com/songs/60110010.mkv
-13-MKV,http://em.21dtv.com/songs/60110013.mkv
-14-MKV,http://em.21dtv.com/songs/60110015.mkv
-15-MKV,http://em.21dtv.com/songs/60110016.mkv
-16-MKV,http://em.21dtv.com/songs/60110014.mkv
-17-MKV,http://em.21dtv.com/songs/60110017.mkv
-18-MKV,http://em.21dtv.com/songs/60110020.mkv
-19-MKV,http://em.21dtv.com/songs/60110018.mkv
-20-MKV,http://em.21dtv.com/songs/60110019.mkv
-21-MKV,http://em.21dtv.com/songs/60110021.mkv
-22-MKV,http://em.21dtv.com/songs/60110022.mkv
-23-MKV,http://em.21dtv.com/songs/60110023.mkv
-24-MKV,http://em.21dtv.com/songs/60110024.mkv
-25-MKV,http://em.21dtv.com/songs/60110025.mkv
-26-MKV,http://em.21dtv.com/songs/60110026.mkv
-27-MKV,http://em.21dtv.com/songs/60110027.mkv
-28-MKV,http://em.21dtv.com/songs/60110028.mkv
-29-MKV,http://em.21dtv.com/songs/60110030.mkv
-30-MKV,http://em.21dtv.com/songs/60110031.mkv
-31-MKV,http://em.21dtv.com/songs/60110033.mkv
-32-MKV,http://em.21dtv.com/songs/60110032.mkv
-33-MKV,http://em.21dtv.com/songs/60110035.mkv
-34-MKV,http://em.21dtv.com/songs/60110034.mkv
-35-MKV,http://em.21dtv.com/songs/60110029.mkv
-36-MKV,http://em.21dtv.com/songs/60110036.mkv
-37-MKV,http://em.21dtv.com/songs/60110037.mkv
-38-MKV,http://em.21dtv.com/songs/60110038.mkv
-39-MKV,http://em.21dtv.com/songs/60110000.mkv
-40-MKV,http://em.21dtv.com/songs/60110040.mkv
-41-MKV,http://em.21dtv.com/songs/60110039.mkv
-42-MKV,http://em.21dtv.com/songs/60110041.mkv
-43-MKV,http://em.21dtv.com/songs/60110042.mkv
-44-MKV,http://em.21dtv.com/songs/60110043.mkv
-46-MKV,http://em.21dtv.com/songs/60110045.mkv
-45-MKV,http://em.21dtv.com/songs/60110044.mkv
-47-MKV,http://em.21dtv.com/songs/60110046.mkv
-48-MKV,http://em.21dtv.com/songs/60110047.mkv
-49-MKV,http://em.21dtv.com/songs/60110048.mkv
-50-MKV,http://em.21dtv.com/songs/60110049.mkv
-舞蹈1,https://mvvideoshare2.meitudata.com/5e5a6b18f102dH264WEB683142_H264_4_1910a1499517b2.mp4
-舞蹈2,https://mvvideoshare2.meitudata.com/5e18860eebc3cspgpz9db86402_H264_4_4cdc5e794ee29.mp4
-舞蹈3,https://mvvideoshare2.meitudata.com/5e5cb64b3981b6eph4svtt5180_H264_4_732ebc590038a.mp4
-舞蹈4,https://mvvideoshare2.meitudata.com/5e93dafed5ac8qa87xtz722921_H264_1_f08af3b6aa6b.mp4
-舞蹈5,https://mvvideoshare2.meitudata.com/5e5a63118107dqjjulcku6891_H264_4_1624c8692d883.mp4
-舞蹈7,https://mvvideoshare2.meitudata.com/5e91627e7b66c1ktmmcunm7341_H264_1_5d803768d461.mp4
-舞蹈8,https://mvvideoshare2.meitudata.com/5e7090a46e543ol3mtyf2p4274_H264_4_ac3f81dfc1933.mp4
-舞蹈9,https://mvvideoshare2.meitudata.com/5e6ccc6c0e795625gcupr9217_H264_4_9deb8266ae765.mp4
-舞蹈10,https://mvvideoshare2.meitudata.com/5e6c8487eaf562ip8evyy22386_H264_4_9b6cb4c3ea353.mp4
-舞蹈11,https://mvvideoshare2.meitudata.com/5e634cf2141a92hpybf7m04115_H264_4_384eeaf91555b.mp4
-舞蹈12,https://mvvideoshare2.meitudata.com/5e5f6bccd6301xbqixb91x6045_H264_4_287f706bd4799.mp4
-点歌的人,https://vd3.bdstatic.com/mda-kdi6hifkag5xsc4p/v1-cae/hd/mda-kdi6hifkag5xsc4p.mp4
 央视卫视,#genre#
 CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
